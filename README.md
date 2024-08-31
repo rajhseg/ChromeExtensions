@@ -9,8 +9,6 @@ This extension can be install by below steps:
 4. For example "ShowID" extension root folder is "https://github.com/rajhseg/ChromeExtensions/tree/main/Show%20Id"
 5. Turn off "Developer mode" which is present in the top right corner.
 6. Close and open the Browser. Now you can use the extension.
-
-<br/>
 <br/>
 
 ShowID extension 
